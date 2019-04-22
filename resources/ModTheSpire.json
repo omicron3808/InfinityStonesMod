@@ -1,0 +1,10 @@
+{
+  "modid": "InfinityStones",
+  "name": "Infinity Stones Mod",
+  "author_list": ["OmicronDeltaZ"],
+  "description": "A mod that adds the Infinity stones of the marvel universe to Slay the Spire.",
+  "version": "0.1",
+  "sts_version": "03-29-2018",
+  "mts_version": "3.6.3",
+  "dependencies": ["basemod"]
+}
